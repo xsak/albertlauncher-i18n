@@ -98,79 +98,79 @@
     <name>OAuthConfigWidget</name>
     <message>
         <source>Client identifier</source>
-        <translation></translation>
+        <translation>Kliens azonosító</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation></translation>
+        <translation>Kliens titok</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation></translation>
+        <translation>Engedélyezés</translation>
     </message>
     <message>
         <source>Awaiting authorization…</source>
-        <translation></translation>
+        <translation>Várakozás engedélyezésre...</translation>
     </message>
     <message>
         <source>Not authorized.</source>
-        <translation></translation>
+        <translation>Nem engedélyezett.</translation>
     </message>
     <message>
         <source>Granted</source>
-        <translation></translation>
+        <translation>Engedélyezett</translation>
     </message>
     <message>
         <source>Request</source>
         <comment>action</comment>
-        <translation></translation>
+        <translation>művelet</translation>
     </message>
 </context>
 <context>
     <name>PluginQueryHandler</name>
     <message>
         <source>Loaded</source>
-        <translation></translation>
+        <translation>Betöltve</translation>
     </message>
     <message>
         <source>Unloaded</source>
-        <translation></translation>
+        <translation>Nincs betöltve</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation></translation>
+        <translation>Konfiguráció</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation></translation>
+        <translation>Engedélyezve</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation></translation>
+        <translation>Letiltva</translation>
     </message>
     <message>
         <source>State</source>
-        <translation></translation>
+        <translation>Állapot</translation>
     </message>
     <message>
         <source>Open settings</source>
-        <translation></translation>
+        <translation>Beállítások megnyitása</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation></translation>
+        <translation>Letiltás</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation></translation>
+        <translation>Engedélyezés</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation></translation>
+        <translation>Pluginek</translation>
     </message>
     <message>
         <source>Manage plugins</source>
-        <translation></translation>
+        <translation>Pluginek kezelése</translation>
     </message>
 </context>
 <context>
